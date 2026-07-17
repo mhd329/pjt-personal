@@ -1,3 +1,5 @@
 .env
 .DS_Store
 /venv
+logs/
+__pycache__/
